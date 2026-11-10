@@ -136,7 +136,6 @@ Please cite the associated manuscript when its publication details become availa
 
 > Habib, M. I. (2026). *Home batteries under net billing: load defection, fixed-cost recovery and time-differentiated export credits in Pakistan*. Manuscript.
 
-A permanent Zenodo DOI may be added here after archiving the repository. Do not use a placeholder DOI as an actual citation.
 
 ## Contact
 
